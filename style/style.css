@@ -1,0 +1,22 @@
+body{
+  background: #1a1a1a;
+}
+h1{
+  color: #00b300;
+}
+
+button{
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  background-color: #edf5e1;
+  color: #05386b;
+  top: 10px;
+  right: 0;
+  bottom: 10px;
+}
+iframe{
+  position: absolute;
+  bottom: 25px;
+  left: -5px;
+}
